@@ -5,9 +5,6 @@ ZADANIE 2
 ![image](https://github.com/lukas5555510/DOCKER_ZAD2/assets/83607788/adb7c623-3918-49be-b915-147a8f5613f3)
 ![image](https://github.com/lukas5555510/DOCKER_ZAD2/assets/83607788/9b467f6e-6daf-40e5-be40-33e5d8c36b6a)
 
-![image](https://github.com/lukas5555510/DOCKER_ZAD2/assets/83607788/d00f6806-0236-4c56-90af-e09c2ddbd3c0)
-
-
 Działanie strony:
 ![image](https://github.com/lukas5555510/DOCKER_ZAD2/assets/83607788/0781d35c-bc93-4d90-8a5c-943b1b360f9b)
 
