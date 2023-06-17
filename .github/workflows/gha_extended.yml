@@ -2,9 +2,9 @@ name: gha_extended:GitHub Action flow
 
 on:
   workflow_dispatch:
-#  push:
-#    branches:
-#      - 'master'
+  push:
+    branches:
+      - 'master'
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
