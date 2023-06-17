@@ -63,7 +63,7 @@ jobs:
           rm -rf /tmp/.buildx-cache
           mv /tmp/.buildx-cache-new /tmp/.buildx-cache
 
-	- name: Docker Scout
+      - name: Docker Scout
         id: docker-scout
         if: ${{ github.event_name == 'pull_request' }}
         uses: docker/scout-action@dd36f5b0295baffa006aa6623371f226cc03e506
